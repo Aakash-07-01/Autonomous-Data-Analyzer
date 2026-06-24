@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+langgraph
+langchain-groq
+pandas
+numpy
+scipy
+plotly
+kaleido
+weasyprint
+markdown
+sse-starlette
+python-multipart
+pydantic
+python-dotenv
